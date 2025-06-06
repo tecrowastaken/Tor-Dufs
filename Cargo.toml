@@ -1,6 +1,6 @@
 [package]
 name = "tdufs"
-version = "0.43.0"
+version = "0.1.0"
 edition = "2021"
 authors = ["techro"]
 description = "tor-dufs is a wrapper around dufs with added features such as the ability to optionally host as a hidden service"
