@@ -2,7 +2,7 @@
 name = "tdufs"
 version = "0.1.0"
 edition = "2021"
-authors = ["techro"]
+authors = ["tecro"]
 description = "tor-dufs is a wrapper around dufs with added features such as the ability to optionally host as a hidden service"
 license = "MIT OR Apache-2.0"
 homepage = "https://github.com/tecrowastaken/Tor-Dufs"
